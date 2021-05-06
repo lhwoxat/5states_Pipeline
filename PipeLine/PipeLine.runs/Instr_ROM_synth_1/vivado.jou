@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Apr 27 14:06:05 2021
+# Process ID: 97244
+# Current directory: D:/Dragoncore/PipeLine/PipeLine.runs/Instr_ROM_synth_1
+# Command line: vivado.exe -log Instr_ROM.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Instr_ROM.tcl
+# Log file: D:/Dragoncore/PipeLine/PipeLine.runs/Instr_ROM_synth_1/Instr_ROM.vds
+# Journal file: D:/Dragoncore/PipeLine/PipeLine.runs/Instr_ROM_synth_1\vivado.jou
+#-----------------------------------------------------------
+source Instr_ROM.tcl -notrace
